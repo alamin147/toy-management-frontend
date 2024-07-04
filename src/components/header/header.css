@@ -1,0 +1,14 @@
+.customUserImg {
+    width: 64px;
+}
+
+
+nav a {
+    text-decoration: none;
+}
+
+
+nav a.active {
+    font-weight: bold;
+    color: aqua !important;
+}
