@@ -11,3 +11,9 @@
 + It has encription of sensitive information
 + It has user's full control of their toys
 + It has fast loading website
+
+# Technology used
++ React js
++ MongoDB
++ Firebase
++ Express js
